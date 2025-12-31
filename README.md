@@ -1,4 +1,4 @@
-# UIX AI Agent 🚀
+# UIX AI Agent (FREE) open source🚀
 
 **AI-powered UI & UX Design Assistant**
 
