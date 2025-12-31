@@ -1,0 +1,8 @@
+{
+  "name": "UIX AI Agent - V2",
+  "description": "Your intelligent UI & UX design assistant. An infinite canvas workspace that generates and organizes entire mobile app workflows using coordinated AI agents.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
